@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.a5a08377.css",
+    "main.js": "/portfolio/static/js/main.11f18381.js",
+    "static/media/JobPortal.png": "/portfolio/static/media/JobPortal.21b78325ff441a257ffb.png",
+    "static/media/TextSummarizer.png": "/portfolio/static/media/TextSummarizer.129993cefa44f33e6ced.png",
+    "static/media/Authentication.png": "/portfolio/static/media/Authentication.cd59193911ca7c64d648.png",
+    "static/media/SuprithReddy_Govind_FStest.pdf": "/portfolio/static/media/SuprithReddy_Govind_FStest.be796de5e373a7db97d1.pdf",
+    "static/media/home-bg.jpg": "/portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/roadAccident.jpeg": "/portfolio/static/media/roadAccident.c1f9f544db6f762f92ec.jpeg",
+    "static/media/nodes3.jpeg": "/portfolio/static/media/nodes3.3c112c5a20b857a0215b.jpeg",
+    "static/media/pre.svg": "/portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/portfolio/index.html",
+    "main.a5a08377.css.map": "/portfolio/static/css/main.a5a08377.css.map",
+    "main.11f18381.js.map": "/portfolio/static/js/main.11f18381.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5a08377.css",
+    "static/js/main.11f18381.js"
+  ]
+}
